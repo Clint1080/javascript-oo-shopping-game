@@ -61,7 +61,7 @@ class Rating {
             this.rate = "OK"
         } else if (value >= 5 && value <= 7) {
             this.rate = "GOOD"
-        } else if (vale > 7) {
+        } else if (value > 7) {
             this.rate = "EXCEPTIONAL"
         } else {
             this.rate = "BAD"
